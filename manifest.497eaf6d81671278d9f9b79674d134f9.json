@@ -1,0 +1,22 @@
+{
+  "icons": [
+    {
+      "src": "/tiku_v2/icon_256x256.97d8b627e901e4d2f23e91e5ad79a7b7.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/tiku_v2/icon_256x256.0130f1421601c332d13ab653c8caa0e1.svg",
+      "sizes": "256x256",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "理论题库刷题",
+  "short_name": "理论刷题",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/tiku_v2/index.html",
+  "description": "理论题库刷题",
+  "theme_color": "#4390EE",
+  "background_color": "#ffffff"
+}
